@@ -3,8 +3,7 @@
 🧠 Computer Science Student<br/>
 📍 Designer UI/UX Jr<br/>
 👩🏽‍💻 I love creating designs and apps.<br/>
-📚 I create educational content about Tech on Instagram.(https://www.instagram.com/chari.labs/)
-
+📚 I create educational content about Tech on Instagram.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/chari.labs) 
