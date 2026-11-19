@@ -1,6 +1,6 @@
 # Hi, I'm Charité 👩🏽‍💻✨
 
-🧠 Computer Science Student<br>📍 Designer UI/UX & Analyst-Programmer </><br>👩🏽‍💻 I love creating designs and apps.<br>📚 I create educational content about Tech on Instagram.
+🧠 Computer Science Student<br>📍 Designer UI/UX & Analyst-Programmer <br>👩🏽‍💻 I love creating designs and apps.<br>📚 I create educational content about Tech on Instagram.
 
 
 ## 🌐 Socials:
